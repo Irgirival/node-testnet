@@ -16,7 +16,7 @@ Guide Source :
 >- [Planq Network](https://docs.planq.network/validators/mainnet.html)
 
 Explorer:
->- https://explorer.nodexcapital.com/planq
+>- https://explorer.xxcode.xyz/planq
 
 
 ## Usefull tools and references
